@@ -1,0 +1,1 @@
+UPDATE users SET City = 'Edinburgh' WHERE Country = 'Scotland';
